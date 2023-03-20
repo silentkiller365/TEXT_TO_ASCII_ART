@@ -4,8 +4,12 @@ Simple Text To ASCII Script Coded Useing Python
 
 
 <h2>USAGE:</h2>
-  pip install pyfiglet <br>
-  python Text_To_ASCII.py <br>
+    pip install pyfiglet <br>
+    python Text_To_ASCII.py <br>
+  <br>
+  <br>
+  <br>
+  <br>
   
   
   
