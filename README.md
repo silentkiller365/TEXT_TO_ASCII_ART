@@ -3,9 +3,9 @@ Simple Text To ASCII Script Coded Useing Python
 
 
 
-USAGE:
-  pip install pyfiglet
-  python Text_To_ASCII.py
+<h2>USAGE:</h2>
+  pip install pyfiglet <br>
+  python Text_To_ASCII.py <br>
   
   
   
@@ -16,6 +16,6 @@ USAGE:
 
 - 📫 How to reach me **https://t.me/Itzmeinvisiblebot**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
